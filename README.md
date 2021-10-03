@@ -15,4 +15,4 @@ Les contraintes :
 
 Nous avons repondu a l'appel d'offre en réalisant une horloge connectée afin de créer notrepropre concept. 
 
-CLOCK’TRUSION sera capable d’afficher l’heure, la température, le tauxd’humidité et sera doter d’un système d’alarme.
+CLOCK’TRUSION sera capable d’afficher l’heure, la température, le taux d’humidité et sera doter d’un système d’alarme.
